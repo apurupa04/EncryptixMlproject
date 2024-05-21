@@ -5,12 +5,12 @@ HI I'm ARYA GUPTA . This is my first Machine Learning Project.
 
 
 ## ScreenShot :camera_flash:
-![](https://github.com/SCARYHUNTER/EncryptixMlproject/blob/main/Movie%20Genre%20Ml%20project/Images/plot.png)<br>
+![Images](https://github.com/SCARYHUNTER/EncryptixMlproject/blob/main/Movie%20Genre%20Ml%20project/Images/plot.png)<br>
 - WordCloud
   <br>
-![](https://github.com/SCARYHUNTER/EncryptixMlproject/blob/main/Movie%20Genre%20Ml%20project/Images/drama_cloud.png)
-![](https://github.com/SCARYHUNTER/EncryptixMlproject/blob/main/Movie%20Genre%20Ml%20project/Images/comedy_cloud.png)
-![](https://github.com/SCARYHUNTER/EncryptixMlproject/blob/main/Movie%20Genre%20Ml%20project/Images/action_cloud.png)
+![Images](https://github.com/SCARYHUNTER/EncryptixMlproject/blob/main/Movie%20Genre%20Ml%20project/Images/drama_cloud.png)
+![Images](https://github.com/SCARYHUNTER/EncryptixMlproject/blob/main/Movie%20Genre%20Ml%20project/Images/comedy_cloud.png)
+![Images](https://github.com/SCARYHUNTER/EncryptixMlproject/blob/main/Movie%20Genre%20Ml%20project/Images/action_cloud.png)
 
 
 
